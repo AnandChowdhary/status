@@ -5,6 +5,8 @@ sites:
     url: https://anandchowdhary.com
   - name: SukritiKapoor.com
     url: https://sukritikapoor.com
+  - name: Test site
+    url: https://test.site
 assignees:
   - AnandChowdhary
 notifications:
