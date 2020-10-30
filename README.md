@@ -14,8 +14,8 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [AnandChowdhary.com](https://anandchowdhary.com) | 🟩 Up | [anand-chowdhary-com.yml](https://github.com/AnandChowdhary/status/commits/master/history/anand-chowdhary-com.yml) | <img alt="Response time graph" src="./graphs/anand-chowdhary-com.png" height="20"> 226ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAnandChowdhary%2Fstatus%2Fmaster%2Fapi%2Fanand-chowdhary-com%2Fuptime.json)
-| [SukritiKapoor.com](https://sukritikapoor.com) | 🟩 Up | [sukriti-kapoor-com.yml](https://github.com/AnandChowdhary/status/commits/master/history/sukriti-kapoor-com.yml) | <img alt="Response time graph" src="./graphs/sukriti-kapoor-com.png" height="20"> 954ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAnandChowdhary%2Fstatus%2Fmaster%2Fapi%2Fsukriti-kapoor-com%2Fuptime.json)
+| [AnandChowdhary.com](https://anandchowdhary.com) | 🟩 Up | [anand-chowdhary-com.yml](https://github.com/AnandChowdhary/status/commits/master/history/anand-chowdhary-com.yml) | <img alt="Response time graph" src="./graphs/anand-chowdhary-com.png" height="20"> 313ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAnandChowdhary%2Fstatus%2Fmaster%2Fapi%2Fanand-chowdhary-com%2Fuptime.json)
+| [SukritiKapoor.com](https://sukritikapoor.com) | 🟩 Up | [sukriti-kapoor-com.yml](https://github.com/AnandChowdhary/status/commits/master/history/sukriti-kapoor-com.yml) | <img alt="Response time graph" src="./graphs/sukriti-kapoor-com.png" height="20"> 1033ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAnandChowdhary%2Fstatus%2Fmaster%2Fapi%2Fsukriti-kapoor-com%2Fuptime.json)
 <!--end: status pages-->
 
 [**Visit our status website →**](https://AnandChowdhary.github.io/status/)
