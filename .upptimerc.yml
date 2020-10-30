@@ -7,6 +7,9 @@ sites:
     url: https://sukritikapoor.com
 assignees:
   - AnandChowdhary
+notifications:
+  - type: slack
+    channel: C01XQ3U9M9P
 status-website:
   baseUrl: /status
   logoUrl: https://anandchowdhary.com/android-chrome-192x192.png
