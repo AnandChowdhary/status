@@ -1,4 +1,4 @@
-# [📈 Live Status](https://AnandChowdhary.github.io/status/): <!--live status--> **🟩 All systems operational**
+# [📈 Live Status](https://AnandChowdhary.github.io/status/): <!--live status--> **🟨 Partial outage**
 
 This repository contains the open-source uptime monitor and status page for [Anand Chowdhary](https://anandchowdhary.com), powered by [Upptime](https://github.com/upptime/upptime).
 
@@ -14,8 +14,9 @@ With [Upptime](https://upptime.js.org), you can get your own unlimited and free 
 <!--start: status pages-->
 | URL | Status | History | Response Time | Uptime |
 | --- | ------ | ------- | ------------- | ------ |
-| [AnandChowdhary.com](https://anandchowdhary.com) | 🟩 Up | [anand-chowdhary-com.yml](https://github.com/AnandChowdhary/status/commits/master/history/anand-chowdhary-com.yml) | <img alt="Response time graph" src="./graphs/anand-chowdhary-com.png" height="20"> 313ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAnandChowdhary%2Fstatus%2Fmaster%2Fapi%2Fanand-chowdhary-com%2Fuptime.json)
-| [SukritiKapoor.com](https://sukritikapoor.com) | 🟩 Up | [sukriti-kapoor-com.yml](https://github.com/AnandChowdhary/status/commits/master/history/sukriti-kapoor-com.yml) | <img alt="Response time graph" src="./graphs/sukriti-kapoor-com.png" height="20"> 1033ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAnandChowdhary%2Fstatus%2Fmaster%2Fapi%2Fsukriti-kapoor-com%2Fuptime.json)
+| [AnandChowdhary.com](https://anandchowdhary.com) | 🟩 Up | [anand-chowdhary-com.yml](https://github.com/AnandChowdhary/status/commits/master/history/anand-chowdhary-com.yml) | <img alt="Response time graph" src="./graphs/anand-chowdhary-com.png" height="20"> 355ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAnandChowdhary%2Fstatus%2Fmaster%2Fapi%2Fanand-chowdhary-com%2Fuptime.json)
+| [SukritiKapoor.com](https://sukritikapoor.com) | 🟩 Up | [sukriti-kapoor-com.yml](https://github.com/AnandChowdhary/status/commits/master/history/sukriti-kapoor-com.yml) | <img alt="Response time graph" src="./graphs/sukriti-kapoor-com.png" height="20"> 1029ms | ![Uptime 100.00%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAnandChowdhary%2Fstatus%2Fmaster%2Fapi%2Fsukriti-kapoor-com%2Fuptime.json)
+| [Test site](https://test.site) | 🟥 Down | [test-site.yml](https://github.com/AnandChowdhary/status/commits/master/history/test-site.yml) | <img alt="Response time graph" src="./graphs/test-site.png" height="20"> 0ms | ![Uptime -564.45%](https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2FAnandChowdhary%2Fstatus%2Fmaster%2Fapi%2Ftest-site%2Fuptime.json)
 <!--end: status pages-->
 
 [**Visit our status website →**](https://AnandChowdhary.github.io/status/)
