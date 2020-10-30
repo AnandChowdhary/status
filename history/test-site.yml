@@ -1,7 +1,7 @@
 - url: https://test.site
-- status: up
+- status: down
 - code: 0
 - responseTime: 0
-- lastUpdated: 2020-10-30T13:34:23.567Z
+- lastUpdated: 2020-10-30T13:41:01.187Z
 - startTime: 2020-10-30T13:34:23.482Z
 - generator: Upptime <https://github.com/upptime/upptime>
