@@ -3,24 +3,24 @@
     "name": "AnandChowdhary.com",
     "url": "https://anandchowdhary.com",
     "slug": "anand-chowdhary-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 264
+    "time": 267
   },
   {
     "name": "SukritiKapoor.com",
     "url": "https://sukritikapoor.com",
     "slug": "sukriti-kapoor-com",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00",
-    "time": 905
+    "time": 910
   },
   {
     "name": "Test site",
     "url": "https://test.site",
     "slug": "test-site",
     "status": "down",
-    "uptime": "0.13",
+    "uptime": "0.12",
     "time": 0
   }
 ]
