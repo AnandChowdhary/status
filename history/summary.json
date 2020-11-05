@@ -5,7 +5,7 @@
     "slug": "anand-chowdhary-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 265
+    "time": 273
   },
   {
     "name": "SukritiKapoor.com",
@@ -13,14 +13,14 @@
     "slug": "sukriti-kapoor-com",
     "status": "up",
     "uptime": "100.00",
-    "time": 917
+    "time": 918
   },
   {
     "name": "Test site",
     "url": "https://test.site",
     "slug": "test-site",
     "status": "down",
-    "uptime": "0.10",
+    "uptime": "0.08",
     "time": 0
   }
 ]
