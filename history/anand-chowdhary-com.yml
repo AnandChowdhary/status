@@ -1,7 +1,7 @@
 - url: https://anandchowdhary.com
-- status: up
+- status: down
 - code: 200
-- responseTime: 447
-- lastUpdated: 2020-11-18T23:09:26.773Z
+- responseTime: 271
+- lastUpdated: 2020-11-19T06:49:48.895Z
 - startTime: 2020-10-29T09:26:15.209Z
 - generator: Upptime <https://github.com/upptime/upptime>
