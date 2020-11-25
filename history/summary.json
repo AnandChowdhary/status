@@ -4,8 +4,8 @@
     "url": "https://anandchowdhary.com",
     "slug": "anand-chowdhary-com",
     "status": "up",
-    "uptime": "99.95%",
-    "time": 734
+    "uptime": "99.96%",
+    "time": 727
   },
   {
     "name": "SukritiKapoor.com",
@@ -13,14 +13,14 @@
     "slug": "sukriti-kapoor-com",
     "status": "up",
     "uptime": "99.98%",
-    "time": 1274
+    "time": 1266
   },
   {
     "name": "Test",
     "url": "https://testqwriwefi.com",
     "slug": "test",
     "status": "down",
-    "uptime": "0.98%",
+    "uptime": "0.30%",
     "time": 0
   }
 ]
