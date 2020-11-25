@@ -5,7 +5,7 @@
     "slug": "anand-chowdhary-com",
     "status": "up",
     "uptime": "99.96%",
-    "time": 727
+    "time": 716
   },
   {
     "name": "SukritiKapoor.com",
@@ -13,14 +13,6 @@
     "slug": "sukriti-kapoor-com",
     "status": "up",
     "uptime": "99.98%",
-    "time": 1266
-  },
-  {
-    "name": "Test",
-    "url": "https://testqwriwefi.com",
-    "slug": "test",
-    "status": "down",
-    "uptime": "0.70%",
-    "time": 0
+    "time": 1256
   }
 ]
