@@ -5,6 +5,12 @@ sites:
     url: https://anandchowdhary.com
   - name: SukritiKapoor.com
     url: https://sukritikapoor.com
+  - name: Test
+    url: https://ok.com
+    method: POST
+    headers:
+      - "Content-Type: application/json"
+    body: '{ "hello": "world" }'
 assignees:
   - AnandChowdhary
 notifications:
