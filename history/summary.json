@@ -5,7 +5,15 @@
     "slug": "anand-chowdhary-com",
     "status": "up",
     "uptime": "99.97%",
-    "time": 777
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.84%",
+    "uptimeMonth": "99.96%",
+    "uptimeYear": "99.97%",
+    "time": 811,
+    "timeDay": 398,
+    "timeWeek": 1138,
+    "timeMonth": 903,
+    "timeYear": 811
   },
   {
     "name": "SukritiKapoor.com",
@@ -13,6 +21,14 @@
     "slug": "sukriti-kapoor-com",
     "status": "up",
     "uptime": "100.00%",
-    "time": 1268
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 1298,
+    "timeDay": 924,
+    "timeWeek": 1366,
+    "timeMonth": 1350,
+    "timeYear": 1298
   }
 ]
