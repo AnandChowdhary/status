@@ -9,11 +9,11 @@
     "uptimeWeek": "99.84%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
-    "time": 798,
-    "timeDay": 293,
-    "timeWeek": 1019,
-    "timeMonth": 885,
-    "timeYear": 798
+    "time": 787,
+    "timeDay": 284,
+    "timeWeek": 935,
+    "timeMonth": 870,
+    "timeYear": 787
   },
   {
     "name": "SukritiKapoor.com",
@@ -25,26 +25,26 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1293,
-    "timeDay": 990,
-    "timeWeek": 1315,
-    "timeMonth": 1342,
-    "timeYear": 1293
+    "time": 1283,
+    "timeDay": 943,
+    "timeWeek": 1248,
+    "timeMonth": 1329,
+    "timeYear": 1283
   },
   {
     "name": "Test",
-    "url": "https://ok.com",
+    "url": "https://webhook.site/f5a5a4c7-1a86-408e-ab9a-13f019581a78",
     "slug": "test",
-    "status": "down",
-    "uptime": "2.56%",
-    "uptimeDay": "2.56%",
-    "uptimeWeek": "2.56%",
-    "uptimeMonth": "2.56%",
-    "uptimeYear": "2.56%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0
+    "status": "up",
+    "uptime": "2.73%",
+    "uptimeDay": "2.73%",
+    "uptimeWeek": "2.73%",
+    "uptimeMonth": "2.73%",
+    "uptimeYear": "2.73%",
+    "time": 410,
+    "timeDay": 410,
+    "timeWeek": 410,
+    "timeMonth": 410,
+    "timeYear": 410
   }
 ]
