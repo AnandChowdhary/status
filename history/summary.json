@@ -35,16 +35,16 @@
     "name": "Test",
     "url": "https://webhook.site/f5a5a4c7-1a86-408e-ab9a-13f019581a78",
     "slug": "test",
-    "status": "down",
-    "uptime": "97.82%",
-    "uptimeDay": "97.82%",
-    "uptimeWeek": "97.82%",
-    "uptimeMonth": "97.82%",
-    "uptimeYear": "97.82%",
-    "time": 907,
-    "timeDay": 907,
-    "timeWeek": 907,
-    "timeMonth": 907,
-    "timeYear": 907
+    "status": "up",
+    "uptime": "79.11%",
+    "uptimeDay": "79.11%",
+    "uptimeWeek": "79.11%",
+    "uptimeMonth": "79.11%",
+    "uptimeYear": "79.11%",
+    "time": 738,
+    "timeDay": 738,
+    "timeWeek": 738,
+    "timeMonth": 738,
+    "timeYear": 738
   }
 ]
