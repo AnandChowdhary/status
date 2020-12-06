@@ -5,12 +5,6 @@ sites:
     url: https://anandchowdhary.com
   - name: SukritiKapoor.com
     url: https://sukritikapoor.com
-  - name: Test
-    url: https://webhook.site/f5a5a4c7-1a86-408e-ab9a-13f019581a78
-    method: POST
-    headers:
-      - "Content-Type: application/json"
-    body: '{ "hello": "world" }'
 assignees:
   - AnandChowdhary
 notifications:
