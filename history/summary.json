@@ -2,6 +2,7 @@
   {
     "name": "AnandChowdhary.com",
     "url": "https://anandchowdhary.com",
+    "icon": "https://favicons.githubusercontent.com/anandchowdhary.com",
     "slug": "anand-chowdhary-com",
     "status": "up",
     "uptime": "99.97%",
@@ -13,11 +14,15 @@
     "timeDay": 232,
     "timeWeek": 251,
     "timeMonth": 912,
-    "timeYear": 735
+    "timeYear": 735,
+    "dailyMinutesDown": {
+      "2020-11-28": 16
+    }
   },
   {
     "name": "SukritiKapoor.com",
     "url": "https://sukritikapoor.com",
+    "icon": "https://favicons.githubusercontent.com/sukritikapoor.com",
     "slug": "sukriti-kapoor-com",
     "status": "up",
     "uptime": "100.00%",
@@ -29,6 +34,7 @@
     "timeDay": 1851,
     "timeWeek": 1166,
     "timeMonth": 1411,
-    "timeYear": 1285
+    "timeYear": 1285,
+    "dailyMinutesDown": {}
   }
 ]
