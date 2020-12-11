@@ -24,9 +24,9 @@
     "url": "https://sukritikapoor.com",
     "icon": "https://favicons.githubusercontent.com/sukritikapoor.com",
     "slug": "sukriti-kapoor-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -35,6 +35,8 @@
     "timeWeek": 1495,
     "timeMonth": 1486,
     "timeYear": 1301,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2020-12-11": 0
+    }
   }
 ]
