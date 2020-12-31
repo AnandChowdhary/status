@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 575,
-    "timeDay": 193,
-    "timeWeek": 224,
-    "timeMonth": 230,
-    "timeYear": 575,
+    "time": 570,
+    "timeDay": 208,
+    "timeWeek": 218,
+    "timeMonth": 229,
+    "timeYear": 570,
     "dailyMinutesDown": {
       "2020-11-28": 16
     }
@@ -25,16 +25,16 @@
     "icon": "https://favicons.githubusercontent.com/sukritikapoor.com",
     "slug": "sukriti-kapoor-com",
     "status": "up",
-    "uptime": "99.97%",
+    "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
-    "uptimeYear": "99.97%",
-    "time": 1284,
-    "timeDay": 937,
-    "timeWeek": 963,
-    "timeMonth": 1255,
-    "timeYear": 1284,
+    "uptimeYear": "99.98%",
+    "time": 1278,
+    "timeDay": 853,
+    "timeWeek": 947,
+    "timeMonth": 1243,
+    "timeYear": 1278,
     "dailyMinutesDown": {
       "2020-12-11": 22
     }
