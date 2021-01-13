@@ -5,16 +5,16 @@
     "icon": "https://favicons.githubusercontent.com/anandchowdhary.com",
     "slug": "anand-chowdhary-com",
     "status": "up",
-    "uptime": "99.98%",
+    "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.98%",
-    "time": 528,
-    "timeDay": 193,
-    "timeWeek": 268,
-    "timeMonth": 230,
-    "timeYear": 528,
+    "uptimeYear": "99.99%",
+    "time": 525,
+    "timeDay": 245,
+    "timeWeek": 241,
+    "timeMonth": 231,
+    "timeYear": 525,
     "dailyMinutesDown": {
       "2020-11-28": 16
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1237,
-    "timeDay": 950,
-    "timeWeek": 952,
-    "timeMonth": 1109,
-    "timeYear": 1237,
+    "time": 1233,
+    "timeDay": 956,
+    "timeWeek": 949,
+    "timeMonth": 1111,
+    "timeYear": 1233,
     "dailyMinutesDown": {
       "2020-12-11": 22
     }
