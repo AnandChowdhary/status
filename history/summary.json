@@ -6,8 +6,8 @@
     "slug": "anand-chowdhary-com",
     "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "99.75%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.73%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "99.97%",
     "time": 556,
@@ -16,6 +16,7 @@
     "timeMonth": 1482,
     "timeYear": 689,
     "dailyMinutesDown": {
+      "2023-11-15": 2,
       "2023-11-13": 14,
       "2023-11-11": 7,
       "2023-11-10": 5,
