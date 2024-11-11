@@ -14,7 +14,7 @@
     "timeDay": 662,
     "timeWeek": 807,
     "timeMonth": 549,
-    "timeYear": 643,
+    "timeYear": 626,
     "dailyMinutesDown": {
       "2024-09-11": 6,
       "2023-11-19": 5,
@@ -28,17 +28,19 @@
     "url": "https://sukritikapoor.com",
     "icon": "https://icons.duckduckgo.com/ip3/sukritikapoor.com.ico",
     "slug": "sukriti-kapoor-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 687,
+    "time": 688,
     "timeDay": 622,
     "timeWeek": 663,
     "timeMonth": 704,
     "timeYear": 687,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-11-11": 2
+    }
   }
 ]
