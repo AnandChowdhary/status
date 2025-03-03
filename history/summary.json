@@ -27,19 +27,19 @@
     "url": "https://sukritikapoor.com",
     "icon": "https://icons.duckduckgo.com/ip3/sukritikapoor.com.ico",
     "slug": "sukriti-kapoor-com",
-    "status": "down",
+    "status": "up",
     "uptime": "99.97%",
-    "uptimeDay": "99.85%",
-    "uptimeWeek": "99.98%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.68%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 687,
-    "timeDay": 636,
-    "timeWeek": 638,
+    "timeDay": 656,
+    "timeWeek": 642,
     "timeMonth": 677,
     "timeYear": 690,
     "dailyMinutesDown": {
-      "2025-03-03": 2,
+      "2025-03-03": 5,
       "2024-11-11": 8
     }
   }
